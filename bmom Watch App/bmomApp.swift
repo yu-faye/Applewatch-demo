@@ -2,10 +2,9 @@
 //  bmomApp.swift
 //  bmom Watch App
 //
-//  Created by yufei on 09/10/2025.
-//
 
 import SwiftUI
+import WatchConnectivity
 
 @main
 struct bmom_Watch_AppApp: App {
